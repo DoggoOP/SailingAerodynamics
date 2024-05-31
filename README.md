@@ -1,4 +1,4 @@
-This project was completed during the Wolfram SUmmer Research Program 2023.
+This project was completed during the Wolfram Summer Research Program 2023.
 ![image](https://github.com/DoggoOP/SailingAerodynamics/assets/80930499/2cb72d4c-170e-4ef4-9681-927b6c54d02b)
 
 
